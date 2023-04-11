@@ -1,0 +1,15 @@
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\bin\Debug\net7.0\VersionGit.exe
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\bin\Debug\net7.0\VersionGit.deps.json
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\bin\Debug\net7.0\VersionGit.runtimeconfig.json
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\bin\Debug\net7.0\VersionGit.dll
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\bin\Debug\net7.0\VersionGit.pdb
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.csproj.AssemblyReference.cache
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.GeneratedMSBuildEditorConfig.editorconfig
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.AssemblyInfoInputs.cache
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.AssemblyInfo.cs
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.csproj.CoreCompileInputs.cache
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.dll
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\refint\VersionGit.dll
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.pdb
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\VersionGit.genruntimeconfig.cache
+D:\INFORMATIKA SEMESTER 2\Pemograman\oop1\VersionGit\VersionGit\obj\Debug\net7.0\ref\VersionGit.dll
